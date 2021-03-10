@@ -1,0 +1,3 @@
+Install all the dependencies using 'npm install'
+Start express server in a seprate terminal window :- cd server >> node App.js
+Start application :- npm start
