@@ -1,0 +1,46 @@
+{
+    "data":[
+    {
+        "id":1,
+        "name":"iPhone 11",
+        "image":"https://m.media-amazon.com/images/I/71tpxtLD0aL._AC_UY218_.jpg",
+        "price":"50,000"
+    },
+    {
+        "id":2,
+        "name":"Samsung s10",
+        "image":"https://m.media-amazon.com/images/I/71T0KJFxCHL._AC_UY218_.jpg",
+        "price":"40,000"
+    },
+    {
+        "id":3,
+        "name":"One Plus 8",
+        "image":"https://m.media-amazon.com/images/I/41XZvmPDumL.jpg",
+        "price":"55,000"
+    },
+    {
+        "id":4,
+        "name":"Nokia 8",
+        "image":"https://images-eu.ssl-images-amazon.com/images/I/41kUpb1d5yL._AC_SX184_.jpg",
+        "price":"20,000"
+    },
+    {
+        "id":5,
+        "name":"Mi A",
+        "image":"https://m.media-amazon.com/images/I/81MP+KiwLlL._AC_UL320_.jpg",
+        "price":"15,000"
+    },
+    {
+        "id":6,
+        "name":"Moto E5",
+        "image":"https://images-eu.ssl-images-amazon.com/images/I/41wV2mtct2L._AC_SX184_.jpg",
+        "price":"10,000"
+    },
+    {
+        "id":7,
+        "name":"iPhone 12",
+        "image":"https://m.media-amazon.com/images/I/71MHTD3uL4L._AC_UL320_.jpg",
+        "price":""
+    }
+    ]
+}

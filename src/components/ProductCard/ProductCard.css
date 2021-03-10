@@ -1,0 +1,37 @@
+.product-card {
+  /* border: solid black; */
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  border-radius: 10px;
+  transition: all 0.5s ease;
+}
+
+.product-card:hover {
+  cursor: pointer;
+  /* border: solid grey; */
+  background-color: rgb(232, 232, 232);
+  width: 330px;
+}
+
+.product-card img {
+  width: 100%;
+  /* padding: 15px;
+  object-fit: cover; */
+}
+
+.product-img {
+  width: 150px;
+}
+
+.product-card-price {
+  font-weight: bold;
+}
+
+.product-card-price::before {
+  font-weight: bold;
+  content: '₹';
+}
